@@ -1,0 +1,29 @@
+html, header, body {
+    background-color: rgb(222, 238, 222);
+}
+
+a {
+    text-decoration: none;
+}
+
+.a {
+    color: black;
+}
+
+.container {
+    display: flex;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    margin: 30px;
+}
+
+.big_font {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+}
