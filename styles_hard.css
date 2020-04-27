@@ -19,11 +19,11 @@ a {
     flex-direction: column;
 }
 
-body {
-    margin: 30px;
-}
-
 .big_font {
     font-family: 'Work Sans', sans-serif;
     font-weight: 700;
+}
+
+.white_background {
+    background-color: white;
 }
